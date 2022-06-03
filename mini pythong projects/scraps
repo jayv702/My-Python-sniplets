@@ -1,0 +1,20 @@
+#num = 12
+#if num > 5:
+#    print("Bigger than 5")
+#    if num <=47:
+#        print("between 5 and 47")
+
+#num = 7
+#if num >3:
+#    print('3')
+#    if num < 5:
+#        print("5")
+#        if num==7:
+#            print("7")
+
+i = 0
+x=0
+while i<4:
+    x+=i
+    i+=1
+print(x)
